@@ -1,0 +1,48 @@
+@define-color base #1E1E1E;
+@define-color text #D2D2D2;
+@define-color foreground #D2D2D2;
+@define-color background #1E1E1E;
+@define-color backtwo #363636;
+@define-color border #38D5D5;
+@define-color hover #38D5D5;
+@define-color selected-text #1E1E1E;
+
+window {
+  /* keep default size, no background needed here */
+}
+
+window .box-wrapper {
+  background: @background;
+  color: @text;
+  border: 3px solid @border;
+  border-radius: 0px;
+  padding: 8px;
+  margin: 0 auto;
+}
+
+window .search-container,
+window .search {
+  background: @backtwo;
+  color: @text;
+  border: 2px solid @border;
+  border-radius: 0px;
+  padding: 8px 12px;
+  margin: 4px 0;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+child:selected,
+child:hover {
+  background: @hover;
+  color: @selected-text;
+  border-radius: 0px;
+}
+
+/* Force text inside the selection to invert to Dark Base */
+child:selected .item-text,
+child:selected .item-subtext,
+child:hover .item-text,
+child:hover .item-subtext {
+  color: @selected-text;
+}

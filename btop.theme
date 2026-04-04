@@ -1,0 +1,83 @@
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#1E1E1E"
+
+# Main text color
+theme[main_fg]="#D2D2D2"
+
+# Title color for boxes
+theme[title]="#7E7EFF"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#38D5D5"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#38D5D5"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#1E1E1E"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#8A8A8A"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#38D5D5"
+
+# Cpu box outline color
+theme[cpu_box]="#8A8A8A"
+
+# Memory/disks box outline color
+theme[mem_box]="#8A8A8A"
+
+# Net up/down box outline color
+theme[net_box]="#8A8A8A"
+
+# Processes box outline color
+theme[proc_box]="#8A8A8A"
+
+# Box divider line and small boxes line color
+theme[div_line]="#8A8A8A"
+
+# Temperature graph colors
+theme[temp_start]="#36DB36"
+theme[temp_mid]="#CFCF2A"
+theme[temp_end]="#F34E4E"
+
+# CPU graph colors
+theme[cpu_start]="#36DB36"
+theme[cpu_mid]="#CFCF2A"
+theme[cpu_end]="#F34E4E"
+
+# Mem/Disk free meter
+theme[free_start]="#36DB36"
+theme[free_mid]="#CFCF2A"
+theme[free_end]="#F34E4E"
+
+# Mem/Disk cached meter
+theme[cached_start]="#36DB36"
+theme[cached_mid]="#CFCF2A"
+theme[cached_end]="#F34E4E"
+
+# Mem/Disk available meter
+theme[available_start]="#36DB36"
+theme[available_mid]="#CFCF2A"
+theme[available_end]="#F34E4E"
+
+# Mem/Disk used meter
+theme[used_start]="#36DB36"
+theme[used_mid]="#CFCF2A"
+theme[used_end]="#F34E4E"
+
+# Download graph colors
+theme[download_start]="#36DB36"
+theme[download_mid]="#CFCF2A"
+theme[download_end]="#F34E4E"
+
+# Upload graph colors
+theme[upload_start]="#36DB36"
+theme[upload_mid]="#CFCF2A"
+theme[upload_end]="#F34E4E"
+
+# Process box color gradient for threads, mem and cpu usage
+theme[process_start]="#36DB36"
+theme[process_mid]="#CFCF2A"
+theme[process_end]="#F34E4E"

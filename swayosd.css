@@ -1,0 +1,29 @@
+@define-color background-color #1E1E1E;
+@define-color border-color #38D5D5;
+@define-color label #38D5D5;
+@define-color image #7E7EFF;
+@define-color progress #38D5D5;
+
+/* 1. Force 3px border (Outranks the generic 'window' tag in style.css) */
+window#osd {
+  border-width: 3px;
+}
+
+/* this isn't supported yet
+ * but maybe it will in the future
+ * so I am leaving it here in the hope of a future update */
+
+/* 2. Muted State (Red = Stop/Alarm) */
+/* color: poured_wine_1 - Matthew 26:27-29 */
+/*
+window#osd.muted {
+  border-color: #F34E4E;
+}
+window#osd.muted label,
+window#osd.muted image {
+  color: #F34E4E;
+}
+window#osd.muted progress {
+  background-color: #F34E4E;
+}
+*/
