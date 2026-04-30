@@ -8,32 +8,32 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-cromanomy-theme.git
 
 ## UI color semantics
 
-* *Background (`#1E1E1E`; `#363636`; `#4E4E4E`; `#666666`)*
-  * UI: Structural background layers.
+* *Background (`#1E1E1E`; `#2A2A2A`)*
+  * UI: Background layers.
 
 * *Black (`#8A8A8A`)*
-  * UI: Passive or inactive, but non-background.
+  * UI: Moot text, symbols and glyphs. Never background.
 
 * *Red (`#F34E4E`)*
-  * UI: Critical alert; deletion; negative feedback; high priority; off.
+  * UI: Critical negative feedback.
 
 * *Green (`#36DB36`)*
-  * UI: Healthy/enabled state; addition; positive feedback; confirmation; on.
+  * UI: Positive feedback.
 
 * *Yellow (`#CFCF2A`)*
-  * UI: Broken, but not dead; alerts; mid priority; mid states.
+  * UI: Intermediary negative feedback.
 
 * *Blue (`#7E7EFF`)*
-  * UI: Static neutral information.
+  * UI: Definitions.
 
 * *Magenta/Purple (`#E742E7`)*
-  * UI: Exceptional semantic cases that need highlighting.
+  * UI: Signals, symbols, glyphs, shortcuts. Never normal strings and numbers.
 
 * *Cyan (`#38D5D5`)*
-  * UI: Ephemeral neutral info; active focus; visual anchor; current user interaction.*
+  * UI: Focus, active user interaction.
 
 * *White (`#D2D2D2`)*
-  * UI: Standard foreground color; neutral generic labels.
+  * UI: Normal strings and numbers.
 
 ## Telos Semantics (TeloS)
 

@@ -1,6 +1,6 @@
 [colors.primary]
 background = "#1E1E1E"
-foreground = "#D2D2D2"
+foreground = "#E2E2E2"
 
 [colors.cursor]
 text = "#1E1E1E"
@@ -11,22 +11,22 @@ background = "#38D5D5"
 text = "#1E1E1E"
 
 [colors.normal]
-black = "#8A8A8A"
+black = "#919191"
 red = "#F34E4E"
 green = "#36DB36"
 yellow = "#CFCF2A"
 blue = "#7E7EFF"
 magenta = "#E742E7"
 cyan = "#38D5D5"
-white = "#D2D2D2"
+white = "#E2E2E2"
 
 # Bright variant is bloat
 [colors.bright]
-black = "#8A8A8A"
+black = "#919191"
 red = "#F34E4E"
 green = "#36DB36"
 yellow = "#CFCF2A"
 blue = "#7E7EFF"
 magenta = "#E742E7"
 cyan = "#38D5D5"
-white = "#D2D2D2"
+white = "#E2E2E2"

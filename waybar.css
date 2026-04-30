@@ -1,12 +1,12 @@
-@define-color background #363636;
+@define-color background #2A2A2A;
 @define-color foreground #38D5D5;
 @define-color green #36DB36;
 @define-color yellow #CFCF2A;
 @define-color red #F34E4E;
 @define-color blue #7E7EFF;
 @define-color cyan #38D5D5;
-@define-color black #8A8A8A;
-@define-color white #D2D2D2;
+@define-color black #919191;
+@define-color white #E2E2E2;
 
 window#waybar * {
   font-weight: bold;
