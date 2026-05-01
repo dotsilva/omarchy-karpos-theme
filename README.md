@@ -35,5 +35,5 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-karpos-theme.git
 * *Cyan (`#38D5D5`)*
   * UI: Focus, active user interaction.
 
-* *White (`#E2E2E2`)*
+* *White (`#E0E0E0`)*
   * UI: Normal strings and numbers.

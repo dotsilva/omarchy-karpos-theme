@@ -6,7 +6,7 @@
 @define-color blue #7E7EFF;
 @define-color cyan #38D5D5;
 @define-color black #919191;
-@define-color white #E2E2E2;
+@define-color white #E0E0E0;
 
 window#waybar * {
   font-weight: bold;
