@@ -1,6 +1,6 @@
-# cromanomy
+# karpos
 
-![karpos theme preview](https://raw.githubusercontent.com/dotsilva/omarchy-cromanomy-theme/master/preview.png)
+![karpos theme preview](https://raw.githubusercontent.com/dotsilva/omarchy-karpos-theme/master/preview.png)
 
 ```bash
 omarchy-theme-install https://github.com/dotsilva/omarchy-karpos-theme.git
