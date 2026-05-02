@@ -12,7 +12,7 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-karpos-theme.git
   * Deep background.
 
 * *bg1 (`#2A2A2A`)*
-  * Auxiliary background (when something needs to stands out over the deep one).
+  * Helper background (when something needs to stands out over the deep one).
 
 * *Black (`#919191`)*
   * UI: Moot text, moot symbols and moot glyphs. Never background.
