@@ -17,13 +17,13 @@ window#osd {
 /* color: poured_wine_1 - Matthew 26:27-29 */
 /*
 window#osd.muted {
-  border-color: #F34E4E;
+  border-color: #FF4949;
 }
 window#osd.muted label,
 window#osd.muted image {
-  color: #F34E4E;
+  color: #FF4949;
 }
 window#osd.muted progress {
-  background-color: #F34E4E;
+  background-color: #FF4949;
 }
 */

@@ -14,7 +14,7 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-karpos-theme.git
 * *black (`#858585`)*
   * UI: Moot text, moot symbols and moot glyphs. Never background.
 
-* *red (`#F34E4E`)*
+* *red (`#FF4949`)*
   * UI: Critical negative feedback.
 
 * *green (`#36DB36`)*
