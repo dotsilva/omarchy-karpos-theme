@@ -11,7 +11,7 @@ theme[title]="#7E7EFF"
 theme[hi_fg]="#E742E7"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#38D5D5"
+theme[selected_bg]="#36DB36"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#1E1E1E"
@@ -20,7 +20,7 @@ theme[selected_fg]="#1E1E1E"
 theme[inactive_fg]="#858585"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#38D5D5"
+theme[proc_misc]="#36DB36"
 
 # Cpu box outline color
 theme[cpu_box]="#7E7EFF"

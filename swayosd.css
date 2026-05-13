@@ -1,8 +1,8 @@
 @define-color background-color #1E1E1E;
-@define-color border-color #38D5D5;
-@define-color label #38D5D5;
+@define-color border-color #36DB36;
+@define-color label #36DB36;
 @define-color image #7E7EFF;
-@define-color progress #38D5D5;
+@define-color progress #36DB36;
 
 /* 1. Force 3px border (Outranks the generic 'window' tag in style.css) */
 window#osd {
