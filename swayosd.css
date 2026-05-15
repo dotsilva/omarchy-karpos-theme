@@ -10,20 +10,7 @@ window#osd {
     border: 3px solid @border-color;
 }
 
-label#osd {
-  font-size: 11pt;
-  color: @label;
-}
-
-image#osd {
-  color: @image;
-}
-
-progressbar#osd {
+progressbar#osd trough{
   border-radius: 0;
     background-color: @background-color;
-}
-
-progress#osd {
-  background-color: @progress;
 }
