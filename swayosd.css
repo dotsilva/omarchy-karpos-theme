@@ -4,10 +4,8 @@
 @define-color image #D4D4D4;
 @define-color progress #E742E7;
 
-/* 1. Force 3px border (Outranks the generic 'window' tag in style.css) */
 window#osd {
-    border-radius: 8px;
-    border-width: 3px;
+    border-radius: 20px;
     opacity: 1.0;
-    border: 3px solid @border-color;
+    border: 20px solid @border-color;
 }
